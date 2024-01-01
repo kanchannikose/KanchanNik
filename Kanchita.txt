@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 3AFB-8EC9
+
+ Directory of C:\Users\HP\Desktop\KanchanNik
+
+01-01-2024  22:15    <DIR>          .
+01-01-2024  22:12    <DIR>          ..
+01-01-2024  22:15                 0 Kanchita.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  181,717,340,160 bytes free
